@@ -1,5 +1,9 @@
 # rainbow-zsh-theme
-my custom zsh theme
+a zsh theme customized from tjkirch.zsh-theme
+
+## demo
+
+![](https://roger-wu.github.io/rainbow-zsh-theme/img/demo.png)
 
 ## features
 
@@ -12,8 +16,6 @@ Showing
 * current date time
 * '$' in the second line
 * `FAIL: <return status>` when the last command failed
-
-based on tjkirch.zsh-theme
 
 ## install
 
