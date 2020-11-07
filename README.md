@@ -5,9 +5,9 @@ my custom zsh theme
 
 Showing
 * user name
-* device name
-* full path
+* machine hostname
+* full path of current working directory
 * git status
-* last command elapsed time
+* elapsed time of the latest command
 * current date time
 * '$' in the second line
