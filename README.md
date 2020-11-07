@@ -1,5 +1,5 @@
 # rainbow-zsh-theme
-a zsh theme customized from tjkirch.zsh-theme
+a powerful zsh theme based on tjkirch.zsh-theme
 
 ## demo
 
