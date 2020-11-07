@@ -19,7 +19,13 @@ Showing
 
 ## install
 
-1. put the .zsh-theme file into ~/.oh-my-zsh/custom/themes/
-2. edit ~/.zshrc `ZSH_THEME="rainbow"`
+### linux
 
-For mac users, you may also need to `brew install coreutils` to make `gdate` work.
+1. $ git clone https://github.com/Roger-Wu/rainbow-zsh-theme.git ~/.oh-my-zsh/custom/themes/rainbow
+2. edit ~/.zshrc `ZSH_THEME="rainbow/rainbow"`
+
+### mac
+
+1. `$ git clone https://github.com/Roger-Wu/rainbow-zsh-theme.git ~/.oh-my-zsh/custom/themes/rainbow`
+2. to make `gdate` work, run `$ brew install coreutils`
+3. edit ~/.zshrc `ZSH_THEME="rainbow/rainbow_mac"`
