@@ -3,7 +3,7 @@ a powerful zsh theme based on tjkirch.zsh-theme
 
 ## demo
 
-![](https://roger-wu.github.io/rainbow-zsh-theme/img/demo.png)
+![demo](https://roger-wu.github.io/images/rainbow-zsh-theme-demo.png)
 
 ## features
 
