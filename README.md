@@ -1,5 +1,5 @@
 # rainbow-zsh-theme
-a powerful zsh theme based on tjkirch.zsh-theme
+A powerful and colorful zsh theme based on tjkirch.zsh-theme.
 
 ## demo
 
@@ -7,7 +7,7 @@ a powerful zsh theme based on tjkirch.zsh-theme
 
 ## features
 
-Showing
+showing
 * user name
 * machine hostname
 * full path of current working directory
@@ -19,12 +19,12 @@ Showing
 
 ## install
 
-### linux
+### Linux
 
 1. $ git clone https://github.com/Roger-Wu/rainbow-zsh-theme.git ~/.oh-my-zsh/custom/themes/rainbow
 2. edit ~/.zshrc `ZSH_THEME="rainbow/rainbow"`
 
-### mac
+### Mac
 
 1. `$ git clone https://github.com/Roger-Wu/rainbow-zsh-theme.git ~/.oh-my-zsh/custom/themes/rainbow`
 2. to make `gdate` work, run `$ brew install coreutils`
